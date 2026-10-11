@@ -1,0 +1,8 @@
+beautifulsoup4>=4.12
+pypdf>=4.0
+python-docx>=1.1
+Pillow>=10.3
+pytesseract>=0.3.10
+# sample generation only:
+reportlab>=4.0
+# System dependency for image OCR: tesseract-ocr  (apt install tesseract-ocr / brew install tesseract)
